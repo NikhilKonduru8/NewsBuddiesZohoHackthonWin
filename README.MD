@@ -101,7 +101,7 @@ NewsBuddies has **two components**:
 ---
 
 ## 🔗 Links  
-- 📖 **Devpost:** [https://devpost.com/software/923132](https://devpost.com/software/923132?ref_content=existing_user_added_to_software_team&ref_feature=portfolio&ref_medium=email&utm_campaign=software&utm_content=added_to_software_team&utm_medium=email&utm_source=transactional)  
+- 📖 **Devpost:** [https://devpost.com/software/923132](https://devpost.com/software/newsbuddies-delivering-accessible-news-to-children)  
 - 💻 **GitHub Repo:** [https://github.com/NikhilKonduru8/NewsBuddiesZohoHackthonWin](https://github.com/NikhilKonduru8/NewsBuddiesZohoHackthonWin)  
 
 ---
