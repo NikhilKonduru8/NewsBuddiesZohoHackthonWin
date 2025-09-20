@@ -13,13 +13,13 @@ Out of about 150 participants, ranging from high school seniors to university st
 
 ## 👥 Team  
 - **Nikhil Konduru** – Raspberry Pi integrations, final hardware solution, Flutter app development, core Android features, multithreading for button-controlled news playback  
-- **Arnav Garg** – Some app development and presentation creation.
-- **Aditya Gaur** – Hardware/Software integration and testing sequences. 
+- **Arnav Garg** – Hardware/Software integration and testing sequences. 
+- **Aditya Gaur** – App development and presentation creation.
 
 ---
 
 ## 🌟 Inspiration  
-Politics is confusing — even for adults. Kids often struggle with terms like *tariffs*, *congress*, or *president*. Our mission was to make politics easier to understand by **breaking down complex ideas with fun analogies** (e.g., *a president is like the captain of a pirate ship*).  
+News is confusing — even for adults. Kids often struggle with terms like *tariffs*, *congress*, or *president*. Our mission was to make News easier to understand by **breaking down complex ideas with fun analogies** (e.g., *a president is like the captain of a pirate ship*).  
 
 ---
 
