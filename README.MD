@@ -5,7 +5,7 @@
 ---
 
 ## 🏆 Hackathon Win!  
-We are a team of **9th graders** who built **NewsBuddies** — and we are proud to announce that we **WON the Zoho Hackathon 2025!** 🎉  
+We are a team of **9th graders** who built **NewsBuddies** — and we are proud to announce that we **WON the Zoho Hackathon 2025(https://www.cognihacks.com/)!** 🎉  
 
 Despite competing against **college students (including participants from Georgia Tech)**, we created a fully functional **mobile app + hardware device** that impressed the judges with its creativity, usability, and technical depth.  
 
